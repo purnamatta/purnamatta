@@ -144,11 +144,14 @@ Medication management-related quality processes
 * Python for Healthcare Data
 
 ---
+## 📄 Resume
 
+[View My Resume](./MATTA%20PURNA%20RAJEENA.pdf)
 ## 📫 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/matta-purna-rajeena-5b1a16312
 * Email: rejeena2002@gmail.com
+* 
 
 ---
 
