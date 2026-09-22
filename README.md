@@ -2,23 +2,20 @@
 
 ### PharmD Graduate | Clinical Research | Real-World Evidence | Pharmacovigilance | Healthcare Analytics
 
-I'm a PharmD graduate with an interest in clinical research, real-world evidence, pharmacovigilance, and healthcare data analytics.
+I'm a PharmD graduate with academic and practical experience in clinical research, hospital-based clinical postings, healthcare quality, and scientific communication.
 
-I am building practical projects to develop my skills in clinical research methodology, healthcare data interpretation, regulatory concepts, and evidence-based decision-making.
+My interests include Clinical Research, Real- World Evidence, Pharmacovigilance, Healthcare Data Analytics, and Clinical Trial Documentation and TMF Associate roles.
 
 ---
 
-## 🔬 Areas of Interest
+## 🎓 Education
 
-* Clinical Research
-* EHR Roles
-* Real-World Evidence (RWE)
-* Pharmacovigilance
-* Clinical Data Management
-* Drug Utilization Research
-* Healthcare Data Analytics
-* Regulatory Affairs
+* Doctor of Pharmacy (PharmD) 2020 - 2026 : **76.11%**
+  Aditya College of Pharmacy, Surampalem
 
+* Intermediate - BiPC 2017 - 2019 : **GPA 9.72**
+
+* 10th SSC - 2016 - 2017 : **GPA 9.8**
 ---
 
 ## 🛠️ Skills
@@ -27,11 +24,29 @@ I am building practical projects to develop my skills in clinical research metho
 
 * Clinical Trial Fundamentals
 * ICH-GCP
+* Patient Case Assessment
+* Clinical documentation
+* Drug safety concepts
+* WHO-UMC Causality assessment
+* ADR monitoring
+* Medication literature
+* Review medication
+* ICSR concepts
+* TMF Structure and Organization (paper TMF/ e-TMF)
+* Document Version Control
+* Essential Document Management
+* TMF Completeness and Quality Review
+* Adverse Event and SAE Reporting Support
 * Clinical Research Methodology
 * Pharmacovigilance Fundamentals
 * Drug Utilization Research
-* Literature Review
 * Evidence-Based Practice
+
+**Healthcare & Quality**
+* Pharmacovigilance Fundamentals
+* NABH Quality Processes
+* Medication Management
+* Regulatory & Compliance Concepts
 
 **Data & Analytics**
 
@@ -43,15 +58,57 @@ I am building practical projects to develop my skills in clinical research metho
 
 ---
 
-## 📂 Featured Projects
+## **🔬 Academic Research Project**
+ 
+* **Efficacy of Erythropoietin-Stimulating Agents in Managing Anemia in CKD Patients**
+* Study Type: Prospective Observational Study
+* Study Site: GSL General Hospital and Medical College, Rajahmundry
+* Sample Size: 70 patients
 
-Projects will be added as I build my portfolio.
+Project Overview
 
-* 🔬 Clinical Trial Protocol Review
-* 💊 Pharmacovigilance Case Study
-* 📊 Drug Utilization Research
-* 📈 Real-World Evidence Case Study
-* 🏥 Healthcare Data Analysis
+A prospective study conducted during my clinical postings to evaluate hemoglobin levels in anemic patients with Chronic Kidney Disease (CKD) receiving erythropoietin-stimulating agents.
+
+Key Activities
+
+Participated in prospective data collection during clinical postings.
+Evaluated hemoglobin levels before and after erythropoietin-stimulating agent use.
+Worked with clinical data from 70 patients.
+Evaluated the change in hemoglobin levels following treatment.
+Performed statistical evaluation using a paired t-test.
+Interpreted the statistical findings in the context of the study objective.
+
+Skills Demonstrated
+
+Clinical Research | Data Collection | Statistical Analysis | Clinical Data Interpretation | Scientific Reporting
+
+**📑 Published Case Studies**
+
+I have contributed to the publication of two case study papers as part of my academic and scientific work.
+
+Case Study 1
+
+Title: To be added
+
+Publication details: To be added
+
+Case Study 2
+
+Title: To be added
+
+Publication details: To be added
+
+**🏥 NABH Audit & Inspection Experience**
+
+During my one-year clinical internship, I assisted the hospital management during NABH audits and inspections, particularly in activities related to the MOM (Management of Medication) chapter.
+
+This experience provided practical exposure to:
+
+Hospital quality processes
+NABH accreditation requirements
+Documentation and compliance activities
+Audit and inspection preparation
+Medication management-related quality processes
 
 ---
 
@@ -72,4 +129,6 @@ Projects will be added as I build my portfolio.
 
 ---
 
-*This portfolio showcases my learning journey and practical projects in healthcare and clinical research.*
+**⚠️ Disclaimer**
+
+This portfolio contains a summary of my academic and professional learning experiences. Patient-identifiable information, confidential hospital information, and proprietary data are not included.
