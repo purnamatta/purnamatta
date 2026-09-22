@@ -86,17 +86,40 @@ Clinical Research | Data Collection | Statistical Analysis | Clinical Data Inter
 
 I have contributed to the publication of two case study papers as part of my academic and scientific work.
 
-Case Study 1
+1. A Case Report of Surgical Correction of Scrotal Hypospadias in a Pediatric Patient via a Staged Byar’s Reconstruction
 
-Title: To be added
+Journal: JOPIR
 
-Publication details: To be added
+DOI: https://doi.org/10.69613/x629g576
 
-Case Study 2
+2. Early-Onset Lichen Plano Pilaris: A Case of Cicatricial Alopecia in an Adolescent Female
 
-Title: To be added
+Journal: International Journal of Creative Research Thoughts (IJCRT)
 
-Publication details: To be added
+ISSN: 2320-2882
+
+Volume: 14
+
+Issue: 4
+
+Pages: m252–m255
+
+Publication: April 2026
+
+Article: http://www.ijcrt.org/papers/IJCRT26A4423.pdf
+
+**🎤 Pharmacy Conference — Oral Presentation**
+Delivered an oral presentation at a pharmacy conference during my academic program.
+
+Presentation Type: Oral Presentation
+
+Experience gained:
+* Scientific literature review
+* Research content preparation
+* Presentation development
+* Scientific communication
+* Oral presentation
+
 
 **🏥 NABH Audit & Inspection Experience**
 
